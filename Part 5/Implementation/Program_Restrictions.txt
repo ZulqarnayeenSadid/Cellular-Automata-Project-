@@ -1,0 +1,20 @@
+------------------------------------------
+Parameters Tab
+------------------------------------------
+
+Initialize Random: Only functional when simulation state paused
+Next: Only functional when simulation state paused
+Previouse: Only functional when simulation state paused
+Reset: Only functional when simulation state paused
+Grid Dimention: Only functional when Grid Status NEW
+Grid Size: Only functional when when Grid Status NEW
+Cell Display Format: Only fucniton when Grid Status NEW
+GRID: Can only be changed by user when simulation State paused
+
+
+------------------------------------------
+Import/Export
+------------------------------------------
+
+Only funtional when simulation state paused
+
