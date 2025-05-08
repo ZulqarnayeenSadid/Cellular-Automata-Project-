@@ -1,0 +1,13 @@
+Name:                                   ID:                 Contribution
+Devarth Trivedi:                        169018554           Use Cases
+Jonas Mogilnicki:                       169034191           Requirements
+Abigail Grimoldby:                      169027218           Use Cases
+Suleman Ali:                            169044667           Gui prototype (Back-end Action Listeners)
+John Uribe:                             169065731           GUI prototype (Control Panel)
+Ayush Gogne:                            169026973           Description
+Zulqarnayeen Sadid:                     169075017           Use Cases
+Kunj Patel:                             169027733           Gui prototype (Grid Selction)
+Gurbir Dhaliwal:                        169031092           Use Cases
+Zenil Lakhani:                          169045738           Requirements
+Kathleen Amelie Fung Ken Chu Moy Sang:  169076891           Gui prototype
+Joel Weber:                             169025972           Description
