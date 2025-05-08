@@ -1,0 +1,14 @@
+CP317 - Group 3
+Name:                                   ID:                 Contribution                    Score                        
+Devarth Trivedi:                        169018554           Use Cases                       5/5
+Jonas Mogilnicki:                       169034191           Requirements                    5/5
+Abigail Grimoldby:                      169027218           Use Cases                       5/5
+Suleman Ali:                            169044667           Gui prototype (Event Listeners) 5/5
+John Uribe:                             169065731           GUI prototype (Control Panel)   5/5 
+Ayush Gogne:                            169026973           Description                     5/5
+Zulqarnayeen Sadid:                     169075017           Use Cases                       5/5
+Kunj Patel:                             169027733           Gui prototype (Grid Selction)   5/5
+Gurbir Dhaliwal:                        169031092           Use Cases                       5/5
+Zenil Lakhani:                          169045738           Requirements                    5/5
+Kathleen Amelie Fung Ken Chu Moy Sang:  169076891           Gui prototype                   5/5
+Joel Weber:                             169025972           Description                     5/5
